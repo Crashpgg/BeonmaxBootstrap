@@ -30,7 +30,7 @@ nav{position:fixed;width:100%;height:50px;background-color:#212121;z-index:2}
 .label{margin:0 auto;height:24px;width:112px;padding:5px 12px;background-color:#000;color:#fff;font-size:11px;font-weight:300;text-transform:uppercase;text-align:center}
 .title{margin-bottom:0;margin-top:38px;color:#222;font-size:38px;font-weight:700;text-transform:uppercase;text-align:center}
 .subtitle{font-weight:400;font-size:17px;text-align:center;color:#222}
-.mobile{min-height:864px;background:url(../img/bg/mobile_bg.jpg);padding:46 0 80 0}
+.mobile{min-height:864px;background:url(../img/bg/mobile_bg.jpg);padding:46px 0 80px 0}
 .mobile .row{margin-top:32px}
 .mobile_item{position:relative;width:320px;height:280px;margin:0 auto;margin-bottom:19px;padding-top:88px}
 .mobile_item_1{background:url(../img/Карточка1.jpg)}
@@ -41,3 +41,9 @@ nav{position:fixed;width:100%;height:50px;background-color:#212121;z-index:2}
 .mobile_item_6{background:url("../img/Карточка 6.jpg")}
 .mobile_item_subtitle{font-weight:400;font-size:24px;line-height:31px;text-align:center;text-transform:uppercase;color:#fff}
 .mobile_item_plus{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;position:absolute;bottom:35px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%);width:29px;height:29px;background:#000;border-radius:100%;margin:0 auto;cursor:pointer}
+.choice{min-height:898px;background-image:url("../img/bg/Темная подложка.jpg"),url(../img/bg/Подложка.jpg);background-position:top,bottom;background-repeat:no-repeat,no-repeat;padding:59px 0 157px 0}
+.choice .title{color:#fff}
+.choice .label{background-color:#fff;color:#000}
+.choice .subtitle{color:#fff}
+.choice_img{display:block;margin:0 auto;margin-top:54px;text-align:center}
+.choice_text{display:block;margin:0 auto;font-weight:300;font-size:17px;text-align:center;color:#000}
